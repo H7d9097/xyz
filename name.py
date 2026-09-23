@@ -1,4 +1,4 @@
 a=10
 b=20
-c=a+g
-print(j)
+c=a+b
+print(c)
